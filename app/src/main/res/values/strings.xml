@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Electricity Bill Calculator</string>
+    <string name="title_activity_about">About</string>
+    <string name="copyright">Copyright © 2024 Amin</string>
+    <string name="about">Group: RCDCS2515A</string>
+    <string name="about2">Student Number: 2022821952</string>
+    <string name="about3">Course Code: CDCS251</string>
+    <string name="website">Application Website: </string>
+
+</resources>
